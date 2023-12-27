@@ -1,2 +1,4 @@
-*.mojo linguist-language=mojo
-*.🔥 linguist-language=mojo
+*.mojo linguist-detectable=true
+*.🔥 linguist-detectable=true
+*.mojo linguist-language=Mojo
+*.🔥 linguist-language=Mojo
